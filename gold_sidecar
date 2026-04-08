@@ -1,4 +1,4 @@
-# gold-sidecar"""
+"""
 gold_sidecar.py  (rule-based, no API key required)
 Runs every morning at 07:00 GMT via GitHub Actions.
 Fetches ForexFactory economic calendar, applies rule-based logic to
