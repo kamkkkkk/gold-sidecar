@@ -1,0 +1,11 @@
+{
+  "bias": "neutral",
+  "confidence": 0.5,
+  "reason": "No high-impact USD events today \u2014 trade normally",
+  "blackout_times": "",
+  "avoid_trading": false,
+  "notes": "Clean calendar day",
+  "generated_at": "2026-04-08T03:11:33.845842",
+  "events_count": 0,
+  "engine": "rule-based"
+}
